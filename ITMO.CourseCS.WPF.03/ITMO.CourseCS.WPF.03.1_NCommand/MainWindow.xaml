@@ -1,0 +1,31 @@
+﻿<Window x:Class="ITMO.CourseCS.WPF._03._1_NCommand.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ITMO.CourseCS.WPF._03._1_NCommand"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="282" Width="500">
+    <Grid>
+        <Menu Width="500" HorizontalAlignment="Left" VerticalAlignment="Top"  Margin="0,0,0,0">
+            <MenuItem Header="Правка" Height="21" >
+                <MenuItem Header="Копировать" CommandTarget="{Binding ElementName=MainWindow}" Command="Copy"/>
+                <MenuItem Header="Вырезать" CommandTarget="{Binding ElementName=MainWindow}" Command="Cut"/>
+                <MenuItem Header="Вставить" CommandTarget="{Binding ElementName=MainWindow}" Command="Paste"/>
+            </MenuItem>
+            <MenuItem Header="Menu Items">
+                <MenuItem Header="Launch" Command="local:CustomCommands.Launch"/>
+            </MenuItem>
+        </Menu>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="33" Margin="10,26,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="462"/>
+        <RichTextBox x:Name="richTextBox" HorizontalAlignment="Left" Height="107" Margin="10,64,0,0" VerticalAlignment="Top" Width="462">
+            <FlowDocument>
+                <Paragraph>
+                    <Run Text=""/>
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+        <Button Command="local:CustomCommands.Launch" Content="Launch" HorizontalAlignment="Left" Margin="10,196,0,0" VerticalAlignment="Top" Width="75" FontStyle="Italic"/>
+        <CheckBox x:Name="checkBox" Content="Enable Launch Command" HorizontalAlignment="Left" Margin="150,200,0,0" VerticalAlignment="Top" FontStyle="Italic"/>
+    </Grid>
+</Window>
