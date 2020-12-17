@@ -1,0 +1,40 @@
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Разработка Windows-приложений на C#\Практика_WPF\Итоговое задание\ITMO.WPF.FinalTask.Calculator\ITMO.WPF.Calculator\bin\Debug\ITMO.WPF.Calculator.exe.config
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Разработка Windows-приложений на C#\Практика_WPF\Итоговое задание\ITMO.WPF.FinalTask.Calculator\ITMO.WPF.Calculator\bin\Debug\ITMO.WPF.Calculator.exe
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Разработка Windows-приложений на C#\Практика_WPF\Итоговое задание\ITMO.WPF.FinalTask.Calculator\ITMO.WPF.Calculator\bin\Debug\ITMO.WPF.Calculator.pdb
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Разработка Windows-приложений на C#\Практика_WPF\Итоговое задание\ITMO.WPF.FinalTask.Calculator\ITMO.WPF.Calculator\bin\Debug\CalculatorEngine.dll
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Разработка Windows-приложений на C#\Практика_WPF\Итоговое задание\ITMO.WPF.FinalTask.Calculator\ITMO.WPF.Calculator\bin\Debug\CalculatorEngine.pdb
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Разработка Windows-приложений на C#\Практика_WPF\Итоговое задание\ITMO.WPF.FinalTask.Calculator\ITMO.WPF.Calculator\obj\Debug\ITMO.WPF.Calculator.csprojAssemblyReference.cache
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Разработка Windows-приложений на C#\Практика_WPF\Итоговое задание\ITMO.WPF.FinalTask.Calculator\ITMO.WPF.Calculator\obj\Debug\MainWindow.g.cs
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Разработка Windows-приложений на C#\Практика_WPF\Итоговое задание\ITMO.WPF.FinalTask.Calculator\ITMO.WPF.Calculator\obj\Debug\QuadraticWindow.g.cs
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Разработка Windows-приложений на C#\Практика_WPF\Итоговое задание\ITMO.WPF.FinalTask.Calculator\ITMO.WPF.Calculator\obj\Debug\App.g.cs
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Разработка Windows-приложений на C#\Практика_WPF\Итоговое задание\ITMO.WPF.FinalTask.Calculator\ITMO.WPF.Calculator\obj\Debug\ITMO.WPF.Calculator_MarkupCompile.cache
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Разработка Windows-приложений на C#\Практика_WPF\Итоговое задание\ITMO.WPF.FinalTask.Calculator\ITMO.WPF.Calculator\obj\Debug\ITMO.WPF.Calculator_MarkupCompile.lref
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Разработка Windows-приложений на C#\Практика_WPF\Итоговое задание\ITMO.WPF.FinalTask.Calculator\ITMO.WPF.Calculator\obj\Debug\MainWindow.baml
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Разработка Windows-приложений на C#\Практика_WPF\Итоговое задание\ITMO.WPF.FinalTask.Calculator\ITMO.WPF.Calculator\obj\Debug\QuadraticWindow.baml
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Разработка Windows-приложений на C#\Практика_WPF\Итоговое задание\ITMO.WPF.FinalTask.Calculator\ITMO.WPF.Calculator\obj\Debug\ITMO.WPF.Calculator.g.resources
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Разработка Windows-приложений на C#\Практика_WPF\Итоговое задание\ITMO.WPF.FinalTask.Calculator\ITMO.WPF.Calculator\obj\Debug\ITMO.WPF.Calculator.Properties.Resources.resources
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Разработка Windows-приложений на C#\Практика_WPF\Итоговое задание\ITMO.WPF.FinalTask.Calculator\ITMO.WPF.Calculator\obj\Debug\ITMO.WPF.Calculator.csproj.GenerateResource.cache
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Разработка Windows-приложений на C#\Практика_WPF\Итоговое задание\ITMO.WPF.FinalTask.Calculator\ITMO.WPF.Calculator\obj\Debug\ITMO.WPF.Calculator.csproj.CoreCompileInputs.cache
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Разработка Windows-приложений на C#\Практика_WPF\Итоговое задание\ITMO.WPF.FinalTask.Calculator\ITMO.WPF.Calculator\obj\Debug\ITMO.WPF.Calculator.csproj.CopyComplete
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Разработка Windows-приложений на C#\Практика_WPF\Итоговое задание\ITMO.WPF.FinalTask.Calculator\ITMO.WPF.Calculator\obj\Debug\ITMO.WPF.Calculator.exe
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Разработка Windows-приложений на C#\Практика_WPF\Итоговое задание\ITMO.WPF.FinalTask.Calculator\ITMO.WPF.Calculator\obj\Debug\ITMO.WPF.Calculator.pdb
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Разработка Windows-приложений на C#\Практика_WPF\Итоговое задание\ITMO.WPF.FinalTask.Calculator — копия\ITMO.WPF.Calculator\bin\Debug\ITMO.WPF.Calculator.exe.config
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Разработка Windows-приложений на C#\Практика_WPF\Итоговое задание\ITMO.WPF.FinalTask.Calculator — копия\ITMO.WPF.Calculator\bin\Debug\ITMO.WPF.Calculator.exe
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Разработка Windows-приложений на C#\Практика_WPF\Итоговое задание\ITMO.WPF.FinalTask.Calculator — копия\ITMO.WPF.Calculator\bin\Debug\ITMO.WPF.Calculator.pdb
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Разработка Windows-приложений на C#\Практика_WPF\Итоговое задание\ITMO.WPF.FinalTask.Calculator — копия\ITMO.WPF.Calculator\bin\Debug\CalculatorEngine.dll
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Разработка Windows-приложений на C#\Практика_WPF\Итоговое задание\ITMO.WPF.FinalTask.Calculator — копия\ITMO.WPF.Calculator\bin\Debug\CalculatorEngine.pdb
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Разработка Windows-приложений на C#\Практика_WPF\Итоговое задание\ITMO.WPF.FinalTask.Calculator — копия\ITMO.WPF.Calculator\obj\Debug\ITMO.WPF.Calculator.csprojAssemblyReference.cache
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Разработка Windows-приложений на C#\Практика_WPF\Итоговое задание\ITMO.WPF.FinalTask.Calculator — копия\ITMO.WPF.Calculator\obj\Debug\MainWindow.g.cs
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Разработка Windows-приложений на C#\Практика_WPF\Итоговое задание\ITMO.WPF.FinalTask.Calculator — копия\ITMO.WPF.Calculator\obj\Debug\QuadraticWindow.g.cs
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Разработка Windows-приложений на C#\Практика_WPF\Итоговое задание\ITMO.WPF.FinalTask.Calculator — копия\ITMO.WPF.Calculator\obj\Debug\App.g.cs
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Разработка Windows-приложений на C#\Практика_WPF\Итоговое задание\ITMO.WPF.FinalTask.Calculator — копия\ITMO.WPF.Calculator\obj\Debug\ITMO.WPF.Calculator_MarkupCompile.cache
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Разработка Windows-приложений на C#\Практика_WPF\Итоговое задание\ITMO.WPF.FinalTask.Calculator — копия\ITMO.WPF.Calculator\obj\Debug\ITMO.WPF.Calculator_MarkupCompile.lref
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Разработка Windows-приложений на C#\Практика_WPF\Итоговое задание\ITMO.WPF.FinalTask.Calculator — копия\ITMO.WPF.Calculator\obj\Debug\MainWindow.baml
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Разработка Windows-приложений на C#\Практика_WPF\Итоговое задание\ITMO.WPF.FinalTask.Calculator — копия\ITMO.WPF.Calculator\obj\Debug\QuadraticWindow.baml
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Разработка Windows-приложений на C#\Практика_WPF\Итоговое задание\ITMO.WPF.FinalTask.Calculator — копия\ITMO.WPF.Calculator\obj\Debug\ITMO.WPF.Calculator.g.resources
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Разработка Windows-приложений на C#\Практика_WPF\Итоговое задание\ITMO.WPF.FinalTask.Calculator — копия\ITMO.WPF.Calculator\obj\Debug\ITMO.WPF.Calculator.Properties.Resources.resources
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Разработка Windows-приложений на C#\Практика_WPF\Итоговое задание\ITMO.WPF.FinalTask.Calculator — копия\ITMO.WPF.Calculator\obj\Debug\ITMO.WPF.Calculator.csproj.GenerateResource.cache
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Разработка Windows-приложений на C#\Практика_WPF\Итоговое задание\ITMO.WPF.FinalTask.Calculator — копия\ITMO.WPF.Calculator\obj\Debug\ITMO.WPF.Calculator.csproj.CoreCompileInputs.cache
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Разработка Windows-приложений на C#\Практика_WPF\Итоговое задание\ITMO.WPF.FinalTask.Calculator — копия\ITMO.WPF.Calculator\obj\Debug\ITMO.WPF.Calculator.csproj.CopyComplete
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Разработка Windows-приложений на C#\Практика_WPF\Итоговое задание\ITMO.WPF.FinalTask.Calculator — копия\ITMO.WPF.Calculator\obj\Debug\ITMO.WPF.Calculator.exe
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Разработка Windows-приложений на C#\Практика_WPF\Итоговое задание\ITMO.WPF.FinalTask.Calculator — копия\ITMO.WPF.Calculator\obj\Debug\ITMO.WPF.Calculator.pdb
